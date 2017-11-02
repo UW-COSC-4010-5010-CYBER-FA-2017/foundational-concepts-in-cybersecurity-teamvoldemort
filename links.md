@@ -1,0 +1,12 @@
+#### Links 4 Me
+* [Nix Namespaces](https://www.toptal.com/linux/separation-anxiety-isolating-your-system-with-linux-namespaces)
+* [MAN:clone](http://man7.org/linux/man-pages/man2/clone.2.html)
+* [MAN:fork](http://man7.org/linux/man-pages/man2/fork.2.html)
+* [Tracing Processes](https://www.safaribooksonline.com/library/view/linux-security-cookbook/0596003919/ch09s15.html)
+* [Tracing Processes ctd.](http://www.brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html)
+* [Nix perf](http://www.brendangregg.com/perf.html)
+* [GDB commands](http://visualgdb.com/gdbreference/commands/x)
+* [Optimizing subrouts in assembly](http://www.agner.org/optimize/optimizing_assembly.pdf)
+* [syscalls for working w/ TCP](http://www.scs.stanford.edu/06au-cs240/notes/l3.pdf)
+* [makefile help](https://www.cs.swarthmore.edu/~newhall/unixhelp/howto_makefiles.html)
+* [more makefile help](http://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
